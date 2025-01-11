@@ -1,2 +1,1 @@
-# JP-Reader
-JP-Reader
+terser index.js -o output.min3.js -m -c --no-beautify
